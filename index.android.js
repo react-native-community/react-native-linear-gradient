@@ -2,7 +2,7 @@
  * @providesModule LinearGradient
  * @flow
  */
-import React, { Component, createRef } from 'react'
+import React, { Component, createRef } from 'react';
 import { processColor, StyleSheet, View } from 'react-native';
 
 import NativeLinearGradient, { type Props } from './common';
